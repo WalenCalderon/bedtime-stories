@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 import java.io.FileReader; // Reads on the file without buffering
 import java.io.BufferedReader;
 import java.util.Locale;
